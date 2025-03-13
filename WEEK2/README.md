@@ -14,6 +14,7 @@ explain the history, current trends, manned vs unmanned for Unmanned Surface Veh
 Unmanned surface vehicle is a boat or ship that is either remotely controlled or fully autonomous.
 ## History
 ![Fernlenkboot](Fernlenkboot.png)
+
 On 1917, The Fernlenkboot was one of the earliest documented unmanned surface vessels (USVs), developed by Germany during World War I. It was a 17m remote-controlled boat capable of carrying up to 200kg of explosives.
 
 Unlike modern USVs that use radio signals or autonomous navigation systems, the Fernlenkboot was controlled via a 20-kilometer-long wire. This wired control system allowed operators to guide the boat toward its target.
@@ -21,6 +22,7 @@ Unlike modern USVs that use radio signals or autonomous navigation systems, the 
 The Fernlenkboot represents one of the earliest known examples of an unmanned surface vessel used in military applications.
 
 ![SoleilFerry](SoleilFerry.jpg)
+
 On January 17, 2022, Soleil ferry built by Mitsubishi Shipbuilding Company and the Shin Nihonkai Ferry Company sail autonomously for 240km. This 222m ferry capable of docking and disembark autonomously.
 ## Current Trends
 USVs are being equipped with enhanced autonomous navigation systems that allow them to operate independently in complex maritime environments. This includes advanced GPS, mapping technologies, and obstacle avoidance mechanisms, which improve their operational efficiency and safety.

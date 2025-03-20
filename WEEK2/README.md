@@ -1,15 +1,3 @@
-Introduction (UR): History, current trends, manned vs unmanned.
-Locomotions (UR): Key design issues, attributes, basic theoretical model, payload.
-
-Unmanned Surface Vehicle (USV)
-Remotely Operated Vehicle (ROV)
-Autonomous Underwater Vehicle (AUV)
-Gliders
-Crawlers
-Biomimetic Underwater Robots
-
-explain the history, current trends, manned vs unmanned for Unmanned Surface Vehicle (USV). Then, explain the key design issues, attributes, basic theoretical model, payload.
-
 # Unmanned Surface Vehicle (USV)
 Unmanned surface vehicle is a boat or ship that is either remotely controlled or fully autonomous.
 ## History
